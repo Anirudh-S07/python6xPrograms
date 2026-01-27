@@ -1,1 +1,1 @@
-print("Red Sandalwood Tree")
+print("Sandalwood Tree")
